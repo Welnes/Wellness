@@ -30,13 +30,13 @@ STRUKTURA:
 
 
 1. Da li svaki zaposlenik radi na svom odjelu ili se mijenjaju kako im odgovara? 
-* Svaki zaposlenik radi sve po potrebi (pult s proizvodima, masaze, tretmani, nosi ručnike na bazen)
+Svaki zaposlenik radi sve po potrebi (pult s proizvodima, masaze, tretmani, nosi ručnike na bazen)
 
 2. Da li se podaci za osobu koja dođe npr.jednom godišnje bilježe u sustav i prikazuju u izvještaju? 
-* Da! 
+Da! 
 
 3. Gdje se prodaju proizvodi?
-* Na pultu gdje se izdaju i karte za usluge.
+Na pultu gdje se izdaju i karte za usluge.
 
 
 BAZA:
