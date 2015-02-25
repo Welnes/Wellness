@@ -42,5 +42,8 @@ BAZA:
 
 
 ČLANARINA (id, ime, prezime, datum_rođ, kontakt, tip, datum_unos)
+
 ZAPOSLENIK (id, ime, prezime, adresa, kontakt, username, password)
+
 CJENIK_USLUGA (id, usluga, cijena, vrsta_usluga)
+
